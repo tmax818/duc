@@ -13,12 +13,12 @@
 ## [chapter 6](part2/ch06/README.md): a place to put stuff
 ## [chapter 7](part2/ch07/README.md): input nad output
 ## [chapter 8](part2/ch08/README.md): decision making
-## [chapter 9](part2/ch09/README.md)
+## [chapter 9](part2/ch09/README.md): loops, loops, loops
 ## [chapter 10](part2/ch10/README.md)
 
 
 
-# Part 3
+# Part 3 build upon what you know
 
 ## [chapter 11](part3/ch11/README.md)
 ## [chapter 12](part3/ch12/README.md)
