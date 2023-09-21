@@ -27,11 +27,11 @@ puts("text");
 
 ### adding more text
 
-[4-2](listings/listing0402.c)
+[4-2](../../code/listing0402.c)
 
 ### commenting out a statement
 
-[4-3](listings/listing0403.c)
+[4-3](../../code/listing0403.c)
 
 ### goofing up on purpose
 
@@ -41,7 +41,7 @@ puts("text");
 
 > `printf()` is far more potent and capable [than `puts()`] any you'll probably use it as the3 primare text output function in your C code.
 
-[4-5](listings/listing0405.c)
+[4-5](../../code/listing0405.c)
 
 ### introducing the `printf()` function
 
