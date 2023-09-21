@@ -1,10 +1,10 @@
 # a quick start for the impatient
 
-## what you need to program
+# what you need to program
 
-## command prompt programming
+# command prompt programming
 
-## ide programming
+# ide programming
 
 ### installing `Code::Blocks`
 
@@ -29,3 +29,6 @@ int main()
 
 ```
 [compiler] -Wall ex0101.c
+
+
+# 

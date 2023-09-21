@@ -1,38 +1,42 @@
 # [C Programming (duc)](https://c-for-dummies.com/cprog/)
 
+# introduction
+
+[code](https://c-for-dummies.com/cprog/)
+
 ## Part 1 the ABs of C
 
-### [chapter 1](./part1/ch01/README.md): a quick start for the impatient
+### [chapter 1: a quick start for the impatient](./part1/ch01/README.md)
 
-### [chapter 2](./part1/ch02/README.md): the programming thing
+### [chapter 2: the programming thing](./part1/ch02/README.md)
 
-### [chapter 3](./part1/ch03/README.md): anatomy of C
+### [chapter 3: anatomy of C](./part1/ch03/README.md)
 
 ## Part 2 C programming 101
 
-### [chapter 4](part2/ch04/README.md): trials and errors
+### [chapter 4: trials and errors](part2/ch04/README.md)
 
-### [chapter 5](part2/ch05/README.md): values and simple math
+### [chapter 5: values and simple math](part2/ch05/README.md)
 
-### [chapter 6](part2/ch06/README.md): a place to put stuff
+### [chapter 6: a place to put stuff](part2/ch06/README.md)
 
-### [chapter 7](part2/ch07/README.md): input nad output
+### [chapter 7: input nad output](part2/ch07/README.md)
 
-### [chapter 8](part2/ch08/README.md): decision making
+### [chapter 8: decision making](part2/ch08/README.md)
 
-### [chapter 9](part2/ch09/README.md): loops, loops, loops
+### [chapter 9: loops, loops, loops](part2/ch09/README.md)
 
 ### [chapter 10](part2/ch10/README.md)
 
 ## Part 3 build upon what you know
 
-### [chapter 11](part3/ch11/README.md): the math chapter
+### [chapter 11: the math chapter](part3/ch11/README.md)
 
-### [chapter 12](part3/ch12/README.md): give me arrays
+### [chapter 12: give me arrays](part3/ch12/README.md)
 
-### [chapter 13](part3/ch13/README.md)
+### [chapter 13: fun with text](part3/ch13/README.md)
 
-### [chapter 14](part3/ch14/README.md)
+### [chapter 14: structures, the multivariable](part3/ch14/README.md)
 
 ### [chapter 15](part3/ch15/README.md)
 
