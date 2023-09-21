@@ -38,15 +38,15 @@
 
 ## [chapter 14: structures, the multivariable](part3/ch14/README.md)
 
-## [chapter 15](part3/ch15/README.md)
+## [chapter 15: life at the command prompt](part3/ch15/README.md)
 
-## [chapter 16](part3/ch16/README.md)
+## [chapter 16: variable nonsense](part3/ch16/README.md)
 
 ## [chapter 17](part3/ch17/README.md)
 
 # part 4
 
-## [chapter 18](part4/ch18/README.md)
+## [chapter 18: introduction to pointers](part4/ch18/README.md)
 
 ## [chapter 19](part4/ch19/README.md)
 
